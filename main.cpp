@@ -20,8 +20,8 @@ int main() {
 
     cin >> target;
     if(cerca(lista,pos,target)){
-        cout << pos;
+        cout << pos << endl;
     }else{
-        cout << "non presente";
+        cout << "non presente" << endl;
     }
 
