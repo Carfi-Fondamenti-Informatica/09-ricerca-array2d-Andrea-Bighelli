@@ -1,3 +1,4 @@
+
 #include "lib.h"
 
 bool cerca(char lista[10][20], int &posizione, char target[]){
